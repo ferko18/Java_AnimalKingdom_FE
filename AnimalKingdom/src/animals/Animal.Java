@@ -13,7 +13,9 @@ public abstract class Animal {
         this.name=name;
         this.yearDescovered=yearDescovered;
     }
-   public int getID(){
+
+    //public methods
+    public int getID(){
        return id ;
    }
     public String getName() {
