@@ -23,7 +23,7 @@ public abstract class Animal {
     }
 
     public int getYearDiscovered() {
-        return yearDiscovered;
+        return yearDescovered;
     }
 
     public String consume() {
